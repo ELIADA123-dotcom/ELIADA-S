@@ -1,0 +1,47 @@
+<DOCTYPE HTML>
+    <HTML>
+
+    <HEAD>
+        <TITLE>INSTITUTE OF RURAL DEVELOPMENT</TITLE>
+        <STYLE>
+            BODY {
+                BACKGROUND-COLOR: GRAY;
+            }
+            /*NAVIGATION <STYLING></STYLING>
+            UL{
+            LIST-STYLE-TYPE0;
+            MARGIN:0;
+            PADDING:0;
+            OVERFLOW:HIDDEN;
+            }
+            LI{
+            FLOAT:LEFT;
+            }
+            LI a{
+            display:block;
+            color:white;
+            text-align:14px20px;
+            text-decoration:none;
+            }
+            LI a:hover{
+            background-color:tomato;
+            }
+        </style>
+
+        <body>
+            <ul>
+                <li><a href="#home">home</a></li>
+                <li><a href="#about">about</a></li>
+                <li><a href="#service">service</a></li>
+                <li><a href="#contact">contact</a></li>
+                <li><a href="#photos">photos</a></li>
+            </ul>
+            <h1><b><marquee>WELCOME FOR BETTER FUTURE LIFE</marquee></b></h1>
+            <h2>mipango is the best insitute of rural development</h2>
+            <h3>our institute have expert professor and doctors</h3>
+            <h4>there is favaourable environment including classes and libralies</h4>
+        </body>
+
+    </html>
+
+</DOCTYPE>
